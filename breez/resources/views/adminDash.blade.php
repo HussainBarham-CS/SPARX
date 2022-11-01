@@ -1,0 +1,7 @@
+@include('app.adminHeader')
+@include('app.adminNavication')
+@include('app.adminTopBar')
+@include('app.adminCardBox')
+@include('app.adminRecentOrder')
+@include('app.adminRecentNewCutomers')
+@include('app.adminFooter')
